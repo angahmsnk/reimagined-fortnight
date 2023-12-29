@@ -10,6 +10,21 @@ body {
     font-size: 12px;
 }
 
-.header {
-    font-size: 3rem;
+header {
+    margin: 0;
+    padding: 30px;
+    width: 100%;
+    height: 100dvh;
+    background: url(baloons.jpg) no-repeat center;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    flex-direction: column;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
 }
