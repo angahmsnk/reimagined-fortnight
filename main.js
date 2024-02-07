@@ -15,3 +15,4 @@ header.addEventListener('click', changeImage);
 
 console.log('Kurde bele kartofele');
 console.log('Ola boda mamola');
+console.log('bambalamba')
