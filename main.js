@@ -12,3 +12,5 @@ const changeImage = () => {
 }
 
 header.addEventListener('click', changeImage);
+
+console.log('Kurde bele kartofele');
