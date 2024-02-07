@@ -16,4 +16,5 @@ header.addEventListener('click', changeImage);
 console.log('Kurde bele kartofele');
 console.log('Kalka malka');
 
-console.log('1')
+console.log('1');
+console.log('2');
